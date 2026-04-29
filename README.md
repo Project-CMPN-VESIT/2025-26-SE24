@@ -39,22 +39,6 @@ caresync/
 
 ---
 
-## Modules
-
-| Module | Frontend | Backend |
-|--------|----------|---------|
-| Auth | ✅ Done | 🔧 In Progress |
-| Children | ✅ Done | 🔧 In Progress |
-| Staff | ✅ Done | 🔧 In Progress |
-| Health Desk | ✅ Done | 🔧 In Progress |
-| Staff Attendance | ✅ Done | 🔧 In Progress |
-| Donations | ✅ Done | 🔧 In Progress |
-| Inventory | ✅ Done | 🔧 In Progress |
-| Expenses | ✅ Done | 🔧 In Progress |
-| Dashboard | ✅ Done | 🔧 In Progress |
-
----
-
 ## Environment Variables
 
 ### Server (`server/.env`)
